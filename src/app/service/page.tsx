@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Services from "@/components/Services";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/service/" },
   title: "AI-Powered Marketing Services in Goa | Creometric",
   description:
     "Explore Creometric's AI-powered marketing services: predictive SEO, intelligent ad optimization, smart social media, AI web design, content strategy, and predictive analytics — all in Goa.",

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/privacy-policy/" },
   title: "Privacy Policy | Creometric",
   description:
     "Read the Creometric privacy policy. Learn how we collect, use, and protect your personal information.",

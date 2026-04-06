@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/social-media-trends-to-watch-in-2025/" },
   title: "Social Media Trends to Watch in 2025 | Creometric",
   description:
     "Stay ahead of the curve with the most important social media trends shaping 2025. From short-form video dominance to AI-generated content and social commerce, here is what marketers need to know.",

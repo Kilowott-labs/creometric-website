@@ -8,6 +8,7 @@ import FAQ from "@/components/FAQ";
 import CTABanner from "@/components/CTABanner";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/" },
   title:
     "AI-Powered Digital Growth Agency | SEO, Ads & Automation — Creometric",
   description:

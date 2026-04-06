@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import ServicePageLayout from "@/components/ServicePageLayout";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/service/social-media-management/" },
   title: "AI-Powered Social Media Management in Goa | Creometric",
   description:
     "AI-powered social media management in Goa. Creometric uses machine learning for content scheduling, sentiment analysis, and audience targeting to grow your brand on Instagram, Facebook, LinkedIn & more.",

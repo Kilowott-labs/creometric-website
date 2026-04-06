@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/local-seo-tips-for-small-businesses-in-goa/" },
   title: "Local SEO Tips for Small Businesses in Goa | Creometric",
   description:
     "Discover actionable local SEO strategies tailored for small businesses in Goa. Learn how to optimize your Google Business Profile, build local citations, and attract more customers from your area.",

@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/exploring-the-impact-of-voice-search-on-digital-marketing/" },
   title: "Exploring the Impact of Voice Search on Digital Marketing | Creometric",
   description:
     "Voice search is reshaping digital marketing strategy. Learn how to optimise your content, SEO, and advertising for voice-first users with insights from Creometric.",

@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/the-intersection-of-ux-design-and-seo-creating-user-friendly-websites/" },
   title: "The Intersection of UX Design and SEO: Creating User-Friendly Websites | Creometric",
   description:
     "Learn how UX design and SEO work together to create websites that rank well and delight users. Creometric shares practical strategies for aligning design and search optimisation.",

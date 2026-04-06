@@ -3,6 +3,7 @@ import Image from "next/image";
 import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/contact-us/" },
   title: "Contact Us | Creometric — AI-Powered Growth Agency in Goa",
   description:
     "Get in touch with Creometric, Goa's AI-powered digital growth agency. Call +91 98509 50259 or fill out the form. We reply within 24 hours.",

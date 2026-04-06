@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import ServicePageLayout from "@/components/ServicePageLayout";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/service/search-engine-optimisation/" },
   title: "AI-Powered SEO Services in Goa | Creometric",
   description:
     "AI-powered SEO services in Goa by Creometric. Predictive keyword targeting, automated content optimization, and machine-learning-driven link strategies that outrank competitors.",

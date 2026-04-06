@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/academy/" },
   title: "Academy | Creometric — Learn Digital Marketing",
   description:
     "Free digital marketing resources, guides, and tutorials from Creometric. Learn SEO, social media, PPC, and more.",

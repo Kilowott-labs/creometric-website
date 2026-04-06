@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import ServicePageLayout from "@/components/ServicePageLayout";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/service/web-analytics/" },
   title: "Predictive Analytics & AI-Powered Tracking in Goa | Creometric",
   description:
     "Predictive analytics and AI-powered data tracking in Goa. Creometric sets up intelligent dashboards, anomaly detection, and predictive models so every marketing decision is backed by AI.",

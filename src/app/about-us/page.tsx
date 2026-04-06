@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/about-us/" },
   title: "About Us | Creometric — AI-Powered Digital Growth Agency in Goa",
   description:
     "Creometric is the AI-powered growth engine of Kilowott. Based in Goa with 10+ years of experience, we combine machine learning, predictive analytics, and intelligent automation to deliver measurable business results.",

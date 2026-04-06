@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/blog/" },
   title: "Blog | Creometric — Digital Marketing Tips & Insights",
   description:
     "Read the latest digital marketing tips, SEO strategies, and social media insights from the Creometric team in Goa.",

@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/sustainable-marketing-promoting-eco-friendly-practices-in-the-digital-age/" },
   title: "Sustainable Marketing: Promoting Eco-Friendly Practices in the Digital Age | Creometric",
   description:
     "Discover how sustainable marketing strategies can help your brand stand out while promoting eco-friendly practices. Learn actionable tips from Creometric, a digital marketing agency in Goa, India.",

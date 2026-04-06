@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import ServicePageLayout from "@/components/ServicePageLayout";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/service/pay-per-click/" },
   title: "AI-Driven PPC & Google Ads in Goa | Creometric",
   description:
     "AI-driven PPC and Google Ads management in Goa. Creometric uses intelligent bid optimization, predictive audience targeting, and real-time AI to maximize ROI on every rupee of ad spend.",

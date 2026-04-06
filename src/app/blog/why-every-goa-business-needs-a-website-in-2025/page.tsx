@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/why-every-goa-business-needs-a-website-in-2025/" },
   title: "Why Every Goa Business Needs a Website in 2025 | Creometric",
   description:
     "Still relying only on social media or word of mouth? Here is why every business in Goa needs a professional website in 2025 to stay competitive, build credibility, and generate leads.",

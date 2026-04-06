@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/case-studies/" },
   title: "Case Studies | Creometric — Real Results for Real Businesses",
   description:
     "See how Creometric helped businesses in Goa grow with digital marketing. Real case studies with measurable results.",

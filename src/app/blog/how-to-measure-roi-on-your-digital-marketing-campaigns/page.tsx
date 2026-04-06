@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
+  alternates: { canonical: "/blog/how-to-measure-roi-on-your-digital-marketing-campaigns/" },
   title: "How to Measure ROI on Your Digital Marketing Campaigns | Creometric",
   description:
     "Learn how to accurately measure the return on investment of your digital marketing efforts. From GA4 setup to attribution models, this guide covers the metrics and methods that matter.",
