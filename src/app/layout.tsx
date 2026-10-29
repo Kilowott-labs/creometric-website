@@ -25,6 +25,9 @@ export const metadata: Metadata = {
   verification: {
     google: "NSnkzpHnqcPLki1ZYaxuNc0KjMcdKzU61SgYOy-JGrU",
   },
+  other: {
+    "deploy-check": "2026-10-29",
+  },
   title: "Creometric | AI-Powered Digital Growth Agency in India",
   description:
     "Creometric is an AI-powered digital growth agency based in India. We use intelligent automation, predictive analytics, and machine learning to drive measurable business results.",
